@@ -1,19 +1,19 @@
 # Sindyk
 
-##How to install
+## How to install
 
-###1. Database
+### 1. Database
 
 MySQL Server
-*Database name:* onawiiyo_sindyk
-*Database user:* onawiiyo_sindyk
-*Database pass:* onawiiyo_sindyk
+**Database name:** onawiiyo_sindyk
+**Database user:** onawiiyo_sindyk
+**Database pass:** onawiiyo_sindyk
 
-Import database/onawiiyo_sindyk.sql
+`Import database/onawiiyo_sindyk.sql`
 
-###2. Backend and Frontend
-Load the Backend folder *api/* in the root folder of the server
-Load the Frontend folder *sindyk/dist* in the root folder of the server
+### 2. Backend and Frontend
+Load the Backend folder **api/** in the root folder of the server
+Load the Frontend folder **sindyk/dist** in the root folder of the server
 
 ###3. Functional Demo
-[http://sindyk.onawy.com/](http://sindyk.onawy.com/)
+http://sindyk.onawy.com/
