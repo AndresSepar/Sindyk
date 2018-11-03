@@ -14,3 +14,6 @@ Import database/onawiiyo_sindyk.sql
 ###2. Backend and Frontend
 Load the Backend folder *api/* in the root folder of the server
 Load the Frontend folder *sindyk/dist* in the root folder of the server
+
+###3. Functional Demo
+[http://sindyk.onawy.com/](http://sindyk.onawy.com/)
