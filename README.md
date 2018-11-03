@@ -5,6 +5,7 @@
 ### 1. Database
 
 **MySQL Server**
+
 **Database name:** onawiiyo_sindyk
 
 **Database user:** onawiiyo_sindyk
